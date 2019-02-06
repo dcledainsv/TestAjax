@@ -1,0 +1,1 @@
+<p>Salut, bienvenu sur la page 1.</p>

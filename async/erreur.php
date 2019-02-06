@@ -1,0 +1,1 @@
+<p class="erreur">Saisissez un nom de page correcte !</p>

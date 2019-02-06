@@ -1,0 +1,19 @@
+body
+{
+	background-color: #C1C1C1;
+}
+
+h1
+{
+	font-size: 1.6em;
+}
+
+p
+{
+	color: green;
+}
+
+.erreur
+{
+	color: red;
+}
